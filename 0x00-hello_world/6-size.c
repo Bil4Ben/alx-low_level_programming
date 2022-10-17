@@ -2,6 +2,12 @@
 
 /**
 * main - Prints out the size of c datatypes
+* Alx has so many things that are not logical
+* are we learing to copy codes or software
+* engineering ? most working could couldn't
+* run on your platform, due to a letter that
+* couldn't affect compilation or execution.
+* it needs some amendment.
 * Return: All good
 */
 
