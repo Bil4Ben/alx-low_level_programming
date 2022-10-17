@@ -7,12 +7,10 @@
 */
 void main(void)
 {
-	printf("char Memory size:%li byte\n", sizeof(char));
-	printf("short int Memory:%li bytes\n", sizeof(short int));
-	printf("unsigned short int Memory:%li bytes\n", sizeof(unsigned short int));
-	printf("unsigned int Memory size:%li bytes\n", sizeof(unsigned int));
-	printf("byte is Memory size:%li bytes\n", sizeof(double));
-	printf("float is Memory size:%li bytes\n", sizeof(float));
-	printf("unsigned long int Memory:%li bytes\n", sizeof(unsigned long int));
+	printf("Memory size of char:%li byte\n", sizeof(char));
+	printf("Memory size of int:%li bytes\n", sizeof(int));
+	printf("Memory size of long int:%li bytes\n", sizeof(long int));
+	printf("Memory size long long int:%li bytes\n", sizeof(long long int));
+	printf("Memory size of float:%li bytes\n", sizeof(float));
 return (0);
 }
