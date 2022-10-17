@@ -6,7 +6,7 @@
 * floating int data types. By the way alx
 * training has some ways that are not
 * logical. are we learning programming or
-* copying? There must be freedom for 
+* copying? There must be freedom for
 * programming and software enginnering.
 * Return: Nothing
 */
