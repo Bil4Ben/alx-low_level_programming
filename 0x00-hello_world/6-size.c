@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
 * main - It lists out built in data type size
-* char, short int, unsigned int, byte, floating
-* unsigned long int data types
+* char, int, long int, long long int, and
+* floating int data types
 * Return: Nothing
 */
 void main(void)
@@ -12,5 +13,5 @@ void main(void)
 	printf("Memory size of long int:%li bytes\n", sizeof(long int));
 	printf("Memory size long long int:%li bytes\n", sizeof(long long int));
 	printf("Memory size of float:%li bytes\n", sizeof(float));
-return (0);
+	return (0);
 }
