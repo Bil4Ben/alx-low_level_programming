@@ -8,10 +8,10 @@
 */
 void main(void)
 {
-	printf("Memory size of char: %li byte(n)\n", sizeof(char));
-	printf("Memory size of int: %li bytes(s)\n", sizeof(int));
-	printf("Memory size of long int: %li bytes(s)\n", sizeof(long int));
-	printf("Memory size long long int: %li bytes(s)\n", sizeof(long long int));
-	printf("Memory size of float: %li bytes(s)\n", sizeof(float));
+	printf("Size of char: %li byte(s)\n", sizeof(char));
+	printf("Size of int: %li bytes(s)\n", sizeof(int));
+	printf("Size of long int: %li bytes(s)\n", sizeof(long int));
+	printf("Size of long long int: %li bytes(s)\n", sizeof(long long int));
+	printf("Size of float: %li bytes(s)\n", sizeof(float));
 	return (0);
 }
