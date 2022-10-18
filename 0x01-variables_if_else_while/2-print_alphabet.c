@@ -15,8 +15,8 @@ int main(void)
 	int i = 0;
 
 	for (i; i < strlen(str); ++i)
-	printf("%c", tolower((unsigned char)) str[i]));
-	printf("\n")
+	printf("%c", tolower((unsigned char) str[i]));
+	printf("\n");
 
 return (0);
 }
